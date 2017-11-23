@@ -6,6 +6,9 @@
 3.扩展：支持使用python语言QQ登录到网站  
 4.用途：常用于爬虫和测试  
   
-![](zhihu.png)  
-![](QQchushi.png)  
-![](QQlogin.png)  
+<img src="zhihu.png" width = "20%" height = "20%" />     
+  
+<img src="QQchushi.png" width = "20%" height = "20%" />    
+  
+<img src="QQlogin.png" width = "20%" height = "20%" />    
+
